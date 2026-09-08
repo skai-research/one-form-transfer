@@ -1,5 +1,7 @@
 # [One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography](https://arxiv.org/abs/2608.25904)
 
+Official code for [One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography](https://arxiv.org/abs/2608.25904).
+
 ![Example sentences in original script, IPA and romanized form](figures/align_and_transfer_example.png)
 
 ## Setup

@@ -1,4 +1,4 @@
-# [One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography](https://arxiv.org/abs/2608.25904)
+# One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography
 
 Official code for [One Form to Transfer Them All: Pretraining Multilingual Language Models Beyond Native Orthography](https://arxiv.org/abs/2608.25904).
 
